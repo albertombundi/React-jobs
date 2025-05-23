@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom"
+import { Link } from "react-router-dom";
 
 const ViewAllJobs = () => {
   return (
@@ -12,4 +12,4 @@ const ViewAllJobs = () => {
   )
 }
 
-export default ViewAllJobs
+export default ViewAllJobs;
