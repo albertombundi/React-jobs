@@ -18,12 +18,11 @@ const JobListings = ({ isHome = false }) => {
         console.log('Error fetching data', error);
       } finally {
         setLoading(false);
-
       }
     }
 
     fetchJobs()
- }, [])
+ }, []);
 
   return (
     <>
