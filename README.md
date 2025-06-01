@@ -1,3 +1,3 @@
-# Jobs seek website platform
+# Jobs seek WebApp platform
 
 # React + Vite
