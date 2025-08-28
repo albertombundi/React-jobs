@@ -1,3 +1,3 @@
 # Jobs seek WebApp platform
 
-# React + Vite
+# With React + Vite
